@@ -1,0 +1,5 @@
+[
+  {"id":"maya","name":"Maya Chen","role":"Senior platform engineer","company":"Aster Cloud (fictional)","repo":{"months":31,"commits":642,"merged_prs":118,"reviewed_prs":203,"active_weeks":104},"claims":["Designed a zero-downtime migration","Led an incident-response redesign","Mentored four engineers"],"defense":{"architecture":4,"tradeoffs":4,"ownership":5}},
+  {"id":"jonah","name":"Jonah Reed","role":"Staff gameplay engineer","company":"Northstar Games (fictional)","repo":{"months":22,"commits":388,"merged_prs":74,"reviewed_prs":91,"active_weeks":77},"claims":["Rebuilt deterministic netcode","Cut match desync reports by 37%","Owned console certification fixes"],"defense":{"architecture":3,"tradeoffs":4,"ownership":4}},
+  {"id":"sam","name":"Sam Ortiz","role":"Senior product engineer","company":"Loopworks (fictional)","repo":{"months":14,"commits":176,"merged_prs":39,"reviewed_prs":28,"active_weeks":42},"claims":["Shipped billing migration","Reduced checkout failures","Introduced service-level objectives"],"defense":{"architecture":2,"tradeoffs":3,"ownership":2}}
+]
